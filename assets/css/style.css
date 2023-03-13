@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Tilt+Prism&display=swap');
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Main view setup*/
+html {
+  min-height: 100%;
+  position: relative;
+}
+
+body{
+  font-family: "Tilt Prism", sans-serif;
+  color: #fff;
+  text-align: center;
+  background: url(../images/Rock-Paper-Scissors-Lizard-Spock.png);
+  background-repeat: repeat;
+}
+
+span {
+  background-color: purple; 
+  height: 80px;
+}
